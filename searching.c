@@ -1,3 +1,4 @@
+// c Program to search a missing number between 1 to n
 #include<stdio.h>
 #include<stdlib.h>
 
